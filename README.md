@@ -1,0 +1,1 @@
+# Ansys-Simulation-of-Naca0012
