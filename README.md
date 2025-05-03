@@ -9,7 +9,9 @@ Performed Computational Fluid Dynamics (CFD) simulations on a NACA 0012 airfoil 
 **Key Features:**
 
 **1.** Simulated 2D incompressible flow over NACA 0012 airfoil
+
 **2.** Generated and analyzed velocity, pressure, and streamline contour plots
+
 **3.** Compared aerodynamic behaviour at different angles to study lift generation and flow separation.
 
 **Tools & Technologies:**
