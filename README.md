@@ -15,8 +15,8 @@ Performed Computational Fluid Dynamics (CFD) simulations on a NACA 0012 airfoil 
 **3.** Compared aerodynamic behaviour at different angles to study lift generation and flow separation.
 
 **Tools & Technologies:**
-ANSYS Fluent 
-CFD 
-NACA Airfoil 
-Lift & Drag Analysis 
-Post-Processing
+ANSYS Fluent, 
+CFD, 
+NACA Airfoil, 
+Lift & Drag Analysis, 
+Post-Processing.
